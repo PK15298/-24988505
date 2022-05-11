@@ -1,0 +1,17 @@
+#myCanvas
+{
+  border-width:10px;
+	border-style:ridge;
+}
+body 
+{
+background:url("https://thumbs.dreamstime.com/b/abstract-pink-blue-yellow-stars-texture-gradated-purple-background-backdrop-web-design-template-frame-banner-postcard-145323668.jpg");
+  background-position: center;
+    background-size: cover; 
+}
+
+h1,h4,h2
+{
+	color: blue !important;
+}
+	
